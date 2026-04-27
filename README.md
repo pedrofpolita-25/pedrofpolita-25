@@ -5,7 +5,7 @@
 Me chamo Pedro Henrique Fernandes Polita, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio na Escola Joaquim Fagundes dos Reis e atualmente estou cursando Ciência da Computação na ATITUS, em Passo Fundo. Tenho grande interesse pela área de tecnologia e venho me dedicando ao desenvolvimento das minhas habilidades, especialmente em programação, pela qual desenvolvi um forte apreço recentemente. Busco constantemente aprender coisas novas e evoluir profissionalmente para construir uma carreira sólida na área de TI.
     
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/pedrofpolita-25?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -20,9 +20,6 @@ Me chamo Pedro Henrique Fernandes Polita, tenho 20 anos e sou natural do Rio Gra
             src="https://custom-icon-badges.demolab.com/github/followers/pedrofpolita-25?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
-
-<p align="left">
     <a href="https://www.instagram.com/pedropolita828" target="_blank">
         <img 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
@@ -63,14 +60,13 @@ Me chamo Pedro Henrique Fernandes Polita, tenho 20 anos e sou natural do Rio Gra
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
+ <img 
     align="left" 
     alt="Java"
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
 />
 <img 
     align="left" 
@@ -81,7 +77,6 @@ Me chamo Pedro Henrique Fernandes Polita, tenho 20 anos e sou natural do Rio Gra
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
 <br/>
 
 ### 📠 Estatísticas
