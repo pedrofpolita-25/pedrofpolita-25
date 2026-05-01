@@ -82,13 +82,11 @@ Me chamo Pedro Henrique Fernandes Polita, tenho 20 anos e sou natural do Rio Gra
 ### 📠 Estatísticas
 
 <p align="center">
-  <img height="180em" style="margin: 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrofpolita-25&theme=tokyonight"/>
-  
-  <img height="180em" style="margin: 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrofpolita-25&theme=tokyonight"/>
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrofpolita-25&theme=tokyonight"/>
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrofpolita-25&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="180em" style="margin: 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrofpolita-25&theme=tokyonight"/>
-  
-  <img height="180em" style="margin: 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedrofpolita-25&theme=tokyonight&utcOffset=-3"/>
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrofpolita-25&theme=tokyonight"/>
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedrofpolita-25&theme=tokyonight&utcOffset=-3"/>
 </p>
