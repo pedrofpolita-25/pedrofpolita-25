@@ -82,9 +82,9 @@ Me chamo Pedro Henrique Fernandes Polita, tenho 20 anos e sou natural do Rio Gra
 ### 📠 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrofpolita-25&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedrofpolita-25&show_icons=true&theme=tokyonight"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofpolita-25&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedrofpolita-25&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
